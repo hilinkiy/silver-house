@@ -1,0 +1,27 @@
+@media (max-width:767.99px) {
+    .main__content{
+        justify-content: center;
+        gap: 30px;
+    }
+
+    .info__descr{
+        width: 100%;
+    }
+
+    .info__desc{
+        width: 100%;
+    }
+
+    .footer__content{
+        justify-content: center;
+        gap: 50px;
+    }
+
+    .main__card{
+        height: 100%;
+    }
+}
+
+@media (max-width: 575.99px) {
+
+}
